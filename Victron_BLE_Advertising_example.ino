@@ -3,6 +3,7 @@
   Victron decryption code snippets from:
   
     https://github.com/Fabian-Schmidt/esphome-victron_ble
+    https://github.com/hoberman/Victron_BLE_Advertising_example/tree/main
 
   Information on the "extra manufacturer data" that we're picking up from Victron SmartSolar
   BLE advertising beacons can be found at:
