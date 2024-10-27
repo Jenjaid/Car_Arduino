@@ -1,3 +1,11 @@
+/*
+  Initial BLE code adapted from Examples->BLE->Beacon_Scanner.
+  Victron decryption code snippets from:
+  
+    
+    https://github.com/hoberman/Victron_BLE_Advertising_example
+*/
+
 void setup()
 {
   Serial.begin(115200);
